@@ -1,4 +1,0 @@
-handsoncordova
-==============
-
-Learning cordova.
